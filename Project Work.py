@@ -1,5 +1,5 @@
 #Name Kotun Abdulfatai .O
-#abdul.kotun@gmail.com 09025125590
+#kotun.abdul@gmail.com 09025125590
 import math
 #A program to calculate the total impedance of a n a.c Cct
 r = float (input('the resistance of the resistor is,'))
